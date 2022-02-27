@@ -1,0 +1,129 @@
+[07-Feb-2020 10:53:53 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/kreditmandirico/public_html/api_test/absensi/koneksi.php on line 4
+[07-Feb-2020 10:53:53 Asia/Jakarta] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/kreditmandirico/public_html/api_test/absensi/koneksi.php on line 5
+[13-Feb-2020 15:58:08 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home/kreditmandirico/public_html/api_test/absensi/koneksi.php on line 4
+[13-Feb-2020 15:58:08 Asia/Jakarta] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/kreditmandirico/public_html/api_test/absensi/koneksi.php on line 5
+[06-Jun-2020 23:11:15 Asia/Jakarta] PHP Warning:  chmod(): Can not call chmod() for a non-standard stream in /home/kreditmandirico/public_html/api_test/absensi/upload_foto_profile.php on line 28
+[06-Jun-2020 23:56:02 Asia/Jakarta] PHP Warning:  chmod(): Can not call chmod() for a non-standard stream in /home/kreditmandirico/public_html/api_test/absensi/upload_foto_profile.php on line 25
+[06-Jun-2020 23:56:02 Asia/Jakarta] PHP Warning:  move_uploaded_file(http://103.234.254.186/foto_profil/021901001.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home/kreditmandirico/public_html/api_test/absensi/upload_foto_profile.php on line 44
+[06-Jun-2020 23:56:02 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phppKl6ED' to 'http://103.234.254.186/foto_profil/021901001.jpg' in /home/kreditmandirico/public_html/api_test/absensi/upload_foto_profile.php on line 44
+[06-Jun-2020 23:58:31 Asia/Jakarta] PHP Warning:  chmod(): Can not call chmod() for a non-standard stream in /home/kreditmandirico/public_html/api_test/absensi/upload_foto_profile.php on line 23
+[06-Jun-2020 23:58:31 Asia/Jakarta] PHP Warning:  move_uploaded_file(http://103.234.254.186/foto_profil/021901001.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home/kreditmandirico/public_html/api_test/absensi/upload_foto_profile.php on line 42
+[06-Jun-2020 23:58:31 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpWwM2Y3' to 'http://103.234.254.186/foto_profil/021901001.jpg' in /home/kreditmandirico/public_html/api_test/absensi/upload_foto_profile.php on line 42
+[06-Jun-2020 23:59:28 Asia/Jakarta] PHP Warning:  chmod(): Can not call chmod() for a non-standard stream in /home/kreditmandirico/public_html/api_test/absensi/upload_foto_profile.php on line 23
+[06-Jun-2020 23:59:28 Asia/Jakarta] PHP Warning:  move_uploaded_file(http://103.234.254.186/foto_profil/021901001.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home/kreditmandirico/public_html/api_test/absensi/upload_foto_profile.php on line 42
+[06-Jun-2020 23:59:28 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phprWOQ2F' to 'http://103.234.254.186/foto_profil/021901001.jpg' in /home/kreditmandirico/public_html/api_test/absensi/upload_foto_profile.php on line 42
+[07-Jun-2020 17:00:09 Asia/Jakarta] PHP Warning:  chmod(): Can not call chmod() for a non-standard stream in /home/kreditmandirico/public_html/api_test/absensi/upload_foto_profile.php on line 23
+[07-Jun-2020 17:00:09 Asia/Jakarta] PHP Warning:  move_uploaded_file(http://103.234.254.186/foto_profil/021901001.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home/kreditmandirico/public_html/api_test/absensi/upload_foto_profile.php on line 42
+[07-Jun-2020 17:00:09 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpEX7Pl2' to 'http://103.234.254.186/foto_profil/021901001.jpg' in /home/kreditmandirico/public_html/api_test/absensi/upload_foto_profile.php on line 42
+[09-Jun-2020 09:38:26 Asia/Jakarta] PHP Warning:  file_put_contents(): Filename cannot be empty in /home/kreditmandirico/public_html/api_test/absensi/upload_foto_profile.php on line 84
+[09-Jun-2020 10:11:25 Asia/Jakarta] PHP Warning:  chmod(): Can not call chmod() for a non-standard stream in /home/kreditmandirico/public_html/api_test/absensi/upload_foto_profile.php on line 22
+[09-Jun-2020 10:11:25 Asia/Jakarta] PHP Warning:  move_uploaded_file(http://103.234.254.186/foto_profil/021901001.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home/kreditmandirico/public_html/api_test/absensi/upload_foto_profile.php on line 41
+[09-Jun-2020 10:11:25 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpNoMGsK' to 'http://103.234.254.186/foto_profil/021901001.jpg' in /home/kreditmandirico/public_html/api_test/absensi/upload_foto_profile.php on line 41
+[09-Jun-2020 10:14:08 Asia/Jakarta] PHP Warning:  chmod(): Can not call chmod() for a non-standard stream in /home/kreditmandirico/public_html/api_test/absensi/upload_foto_profile.php on line 22
+[09-Jun-2020 10:14:08 Asia/Jakarta] PHP Warning:  move_uploaded_file(http://103.234.254.186/foto_profil/021901001.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home/kreditmandirico/public_html/api_test/absensi/upload_foto_profile.php on line 41
+[09-Jun-2020 10:14:08 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php61W52H' to 'http://103.234.254.186/foto_profil/021901001.jpg' in /home/kreditmandirico/public_html/api_test/absensi/upload_foto_profile.php on line 41
+[09-Jun-2020 10:14:17 Asia/Jakarta] PHP Warning:  chmod(): Can not call chmod() for a non-standard stream in /home/kreditmandirico/public_html/api_test/absensi/upload_foto_profile.php on line 22
+[09-Jun-2020 10:14:17 Asia/Jakarta] PHP Warning:  move_uploaded_file(http://103.234.254.186/foto_profil/021901001.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home/kreditmandirico/public_html/api_test/absensi/upload_foto_profile.php on line 41
+[09-Jun-2020 10:14:17 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpw92GA6' to 'http://103.234.254.186/foto_profil/021901001.jpg' in /home/kreditmandirico/public_html/api_test/absensi/upload_foto_profile.php on line 41
+[09-Jun-2020 10:14:21 Asia/Jakarta] PHP Warning:  chmod(): Can not call chmod() for a non-standard stream in /home/kreditmandirico/public_html/api_test/absensi/upload_foto_profile.php on line 22
+[09-Jun-2020 10:14:21 Asia/Jakarta] PHP Warning:  move_uploaded_file(http://103.234.254.186/foto_profil/021901001.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home/kreditmandirico/public_html/api_test/absensi/upload_foto_profile.php on line 41
+[09-Jun-2020 10:14:21 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpvt2vOE' to 'http://103.234.254.186/foto_profil/021901001.jpg' in /home/kreditmandirico/public_html/api_test/absensi/upload_foto_profile.php on line 41
+[09-Jun-2020 10:14:29 Asia/Jakarta] PHP Warning:  chmod(): Can not call chmod() for a non-standard stream in /home/kreditmandirico/public_html/api_test/absensi/upload_foto_profile.php on line 22
+[09-Jun-2020 10:14:29 Asia/Jakarta] PHP Warning:  move_uploaded_file(http://103.234.254.186/foto_profil/021901001.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home/kreditmandirico/public_html/api_test/absensi/upload_foto_profile.php on line 41
+[09-Jun-2020 10:14:29 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpFud35I' to 'http://103.234.254.186/foto_profil/021901001.jpg' in /home/kreditmandirico/public_html/api_test/absensi/upload_foto_profile.php on line 41
+[11-Jun-2020 10:33:53 Asia/Jakarta] PHP Warning:  chmod(): Can not call chmod() for a non-standard stream in /home/kreditmandirico/public_html/api_test/absensi/upload_foto_profile.php on line 23
+[11-Jun-2020 10:33:53 Asia/Jakarta] PHP Warning:  move_uploaded_file(http://103.234.254.186/foto_profil/021901001.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home/kreditmandirico/public_html/api_test/absensi/upload_foto_profile.php on line 43
+[11-Jun-2020 10:33:53 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpKOOkwU' to 'http://103.234.254.186/foto_profil/021901001.jpg' in /home/kreditmandirico/public_html/api_test/absensi/upload_foto_profile.php on line 43
+[11-Jun-2020 10:46:23 Asia/Jakarta] PHP Warning:  chmod(): Can not call chmod() for a non-standard stream in /home/kreditmandirico/public_html/api_test/absensi/upload_foto_profile.php on line 23
+[11-Jun-2020 10:46:23 Asia/Jakarta] PHP Warning:  move_uploaded_file(http://103.234.254.186/foto_profil/021901001.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home/kreditmandirico/public_html/api_test/absensi/upload_foto_profile.php on line 43
+[11-Jun-2020 10:46:23 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpnRGnEn' to 'http://103.234.254.186/foto_profil/021901001.jpg' in /home/kreditmandirico/public_html/api_test/absensi/upload_foto_profile.php on line 43
+[11-Jun-2020 12:12:32 Asia/Jakarta] PHP Warning:  chmod(): Can not call chmod() for a non-standard stream in /home/kreditmandirico/public_html/api_test/absensi/upload_foto_profile.php on line 23
+[11-Jun-2020 12:12:32 Asia/Jakarta] PHP Warning:  move_uploaded_file(http://103.234.254.186/foto_profil/011811039.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home/kreditmandirico/public_html/api_test/absensi/upload_foto_profile.php on line 43
+[11-Jun-2020 12:12:32 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpGsLckT' to 'http://103.234.254.186/foto_profil/011811039.jpg' in /home/kreditmandirico/public_html/api_test/absensi/upload_foto_profile.php on line 43
+[11-Jun-2020 12:13:22 Asia/Jakarta] PHP Warning:  chmod(): Can not call chmod() for a non-standard stream in /home/kreditmandirico/public_html/api_test/absensi/upload_foto_profile.php on line 23
+[11-Jun-2020 12:13:22 Asia/Jakarta] PHP Warning:  move_uploaded_file(http://103.234.254.186/foto_profil/011811039.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home/kreditmandirico/public_html/api_test/absensi/upload_foto_profile.php on line 43
+[11-Jun-2020 12:13:22 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpz45e0v' to 'http://103.234.254.186/foto_profil/011811039.jpg' in /home/kreditmandirico/public_html/api_test/absensi/upload_foto_profile.php on line 43
+[11-Jun-2020 12:13:38 Asia/Jakarta] PHP Warning:  chmod(): Can not call chmod() for a non-standard stream in /home/kreditmandirico/public_html/api_test/absensi/upload_foto_profile.php on line 23
+[11-Jun-2020 12:13:38 Asia/Jakarta] PHP Warning:  move_uploaded_file(http://103.234.254.186/foto_profil/011811039.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home/kreditmandirico/public_html/api_test/absensi/upload_foto_profile.php on line 43
+[11-Jun-2020 12:13:38 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php8plWtZ' to 'http://103.234.254.186/foto_profil/011811039.jpg' in /home/kreditmandirico/public_html/api_test/absensi/upload_foto_profile.php on line 43
+[15-Jun-2020 10:11:35 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kreditmandirico/public_html/api_test/absensi/koneksi.php:1) in /home/kreditmandirico/public_html/api_test/absensi/login.php on line 33
+[15-Jun-2020 10:14:39 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kreditmandirico/public_html/api_test/absensi/koneksi.php:1) in /home/kreditmandirico/public_html/api_test/absensi/login.php on line 33
+[22-Jun-2020 13:03:36 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Invalid SOS parameters for sequential JPEG
+ in /home/kreditmandirico/public_html/api_test/absensi/input_absen.php on line 90
+[22-Jun-2020 13:03:36 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): 'upload_absensi/0219010012020-06-22flag_masuk.jpg' is not a valid JPEG file in /home/kreditmandirico/public_html/api_test/absensi/input_absen.php on line 90
+[22-Jun-2020 13:03:36 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/kreditmandirico/public_html/api_test/absensi/input_absen.php on line 101
+[22-Jun-2020 13:03:36 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/kreditmandirico/public_html/api_test/absensi/input_absen.php on line 102
+[22-Jun-2020 13:03:36 Asia/Jakarta] PHP Warning:  Division by zero in /home/kreditmandirico/public_html/api_test/absensi/input_absen.php on line 105
+[22-Jun-2020 13:03:36 Asia/Jakarta] PHP Warning:  imagecreatetruecolor() expects parameter 2 to be integer, float given in /home/kreditmandirico/public_html/api_test/absensi/input_absen.php on line 108
+[22-Jun-2020 13:03:36 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/kreditmandirico/public_html/_test/absensi/input_absen.php on line 109
+[22-Jun-2020 13:03:36 Asia/Jakarta] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/kreditmandirico/public_html/api_test/absensi/input_absen.php on line 113
+[22-Jun-2020 13:06:47 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Invalid SOS parameters for sequential JPEG
+ in /home/kreditmandirico/public_html/api_test/absensi/input_absen.php on line 90
+[22-Jun-2020 13:06:47 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): 'upload_absensi/0219010012020-06-22flag_masuk.jpg' is not a valid JPEG file in /home/kreditmandirico/public_html/api_test/absensi/input_absen.php on line 90
+[22-Jun-2020 13:06:47 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/kreditmandirico/public_html/api_test/absensi/input_absen.php on line 101
+[22-Jun-2020 13:06:47 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/kreditmandirico/public_html/_test/absensi/input_absen.php on line 102
+[22-Jun-2020 13:06:47 Asia/Jakarta] PHP Warning:  Division by zero in /home/kreditmandirico/public_html/api_test/absensi/input_absen.php on line 105
+[22-Jun-2020 13:06:47 Asia/Jakarta] PHP Warning:  imagecreatetruecolor() expects parameter 2 to be integer, float given in /home/kreditmandirico/public_html/api_test/absensi/input_absen.php on line 108
+[22-Jun-2020 13:06:47 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/kreditmandirico/public_html/api_test/absensi/input_absen.php on line 109
+[22-Jun-2020 13:06:47 Asia/Jakarta] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/kreditmandirico/public_html/api_test/absensi/input_absen.php on line 113
+[22-Jun-2020 13:11:06 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Invalid SOS parameters for sequential JPEG
+ in /home/kreditmandirico/public_html/api_test/absensi/input_absen.php on line 90
+[22-Jun-2020 13:11:06 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): 'upload_absensi/0219010012020-06-22 13:11:04.jpg' is not a valid JPEG file in /home/kreditmandirico/public_html/api_test/absensi/input_absen.php on line 90
+[22-Jun-2020 13:11:06 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/kreditmandirico/public_html/api_test/absensi/input_absen.php on line 101
+[22-Jun-2020 13:11:06 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/kreditmandirico/public_html/api_test/absensi/input_absen.php on line 102
+[22-Jun-2020 13:11:06 Asia/Jakarta] PHP Warning:  Division by zero in /home/kreditmandirico/public_html/api_test/absensi/input_absen.php on line 105
+[22-Jun-2020 13:11:06 Asia/Jakarta] PHP Warning:  imagecreatetruecolor() expects parameter 2 to be integer, float given in /home/kreditmandirico/public_html/api_test/absensi/input_absen.php on line 108
+[22-Jun-2020 13:11:06 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/kreditmandirico/public_html/api_test/absensi/input_absen.php on line 109
+[22-Jun-2020 13:11:06 Asia/Jakarta] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/kreditmandirico/public_html/api_test/absensi/input_absen.php on line 113
+[25-Jun-2020 11:41:20 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kreditmandirico/public_html/api_test/absensi/get_kantor.php on line 10
+[25-Jun-2020 11:41:20 Asia/Jakarta] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/kreditmandirico/public_html/api_test/absensi/get_kantor.php on line 15
+[25-Jun-2020 13:27:12 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kreditmandirico/public_html/api_test/absensi/get_jabatan.php on line 7
+[25-Jun-2020 13:27:12 Asia/Jakarta] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/kreditmandirico/public_html/api_test/absensi/get_jabatan.php on line 12
+[12-Oct-2020 10:40:09 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home/mediasar/public_html/api/absensi/koneksi.php on line 4
+[12-Oct-2020 10:40:09 Asia/Jakarta] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/mediasar/public_html/api/absensi/koneksi.php on line 5
+[12-Oct-2020 11:24:04 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home/mediasar/public_html/api/absensi/koneksi.php on line 4
+[12-Oct-2020 11:24:04 Asia/Jakarta] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/mediasar/public_html/api/absensi/koneksi.php on line 5
+[12-Oct-2020 11:26:45 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home/mediasar/public_html/api/absensi/koneksi.php on line 4
+[12-Oct-2020 11:26:45 Asia/Jakarta] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/mediasar/public_html/api/absensi/koneksi.php on line 5
+[12-Oct-2020 11:26:56 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home/mediasar/public_html/api/absensi/koneksi.php on line 4
+[12-Oct-2020 11:26:56 Asia/Jakarta] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/mediasar/public_html/api/absensi/koneksi.php on line 5
+[12-Oct-2020 11:28:48 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home/mediasar/public_html/api/absensi/koneksi.php on line 4
+[12-Oct-2020 11:28:48 Asia/Jakarta] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/mediasar/public_html/api/absensi/koneksi.php on line 5
+[10-Nov-2020 10:04:48 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home/mediasar/public_html/api/absensi/koneksi.php on line 4
+[10-Nov-2020 10:04:48 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/mediasar/public_html/api/absensi/koneksi.php on line 5
+[10-Nov-2020 10:04:50 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home/mediasar/public_html/api/absensi/koneksi.php on line 4
+[10-Nov-2020 10:04:50 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/mediasar/public_html/api/absensi/koneksi.php on line 5
+[10-Nov-2020 10:04:51 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home/mediasar/public_html/api/absensi/koneksi.php on line 4
+[10-Nov-2020 10:04:51 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/mediasar/public_html/api/absensi/koneksi.php on line 5
+[10-Nov-2020 10:05:03 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home/mediasar/public_html/api/absensi/koneksi.php on line 4
+[10-Nov-2020 10:05:03 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/mediasar/public_html/api/absensi/koneksi.php on line 5
+[10-Nov-2020 10:05:08 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home/mediasar/public_html/api/absensi/koneksi.php on line 4
+[10-Nov-2020 10:05:08 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/mediasar/public_html/api/absensi/koneksi.php on line 5
+[10-Nov-2020 10:05:12 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home/mediasar/public_html/api/absensi/koneksi.php on line 4
+[10-Nov-2020 10:05:12 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/mediasar/public_html/api/absensi/koneksi.php on line 5
+[10-Nov-2020 10:05:16 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home/mediasar/public_html/api/absensi/koneksi.php on line 4
+[10-Nov-2020 10:05:16 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/mediasar/public_html/api/absensi/koneksi.php on line 5
+[10-Nov-2020 10:05:17 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home/mediasar/public_html/api/absensi/koneksi.php on line 4
+[10-Nov-2020 10:05:17 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/mediasar/public_html/api/absensi/koneksi.php on line 5
+[10-Nov-2020 10:05:22 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home/mediasar/public_html/api/absensi/koneksi.php on line 4
+[10-Nov-2020 10:05:22 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/mediasar/public_html/api/absensi/koneksi.php on line 5
+[10-Nov-2020 10:05:23 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home/mediasar/public_html/api/absensi/koneksi.php on line 4
+[10-Nov-2020 10:05:23 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/mediasar/public_html/api/absensi/koneksi.php on line 5
+[19-Nov-2020 14:12:07 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/mediasar/public_html/api/absensi/koneksi.php on line 4
+[19-Nov-2020 14:12:07 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/mediasar/public_html/api/absensi/koneksi.php on line 5
+[19-Nov-2020 14:12:44 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/mediasar/public_html/api/absensi/koneksi.php on line 4
+[19-Nov-2020 14:12:44 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/mediasar/public_html/api/absensi/koneksi.php on line 5
+[19-Nov-2020 14:12:48 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/mediasar/public_html/api/absensi/koneksi.php on line 4
+[19-Nov-2020 14:12:48 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/mediasar/public_html/api/absensi/koneksi.php on line 5
+[19-Nov-2020 14:13:04 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/mediasar/public_html/api/absensi/koneksi.php on line 4
+[19-Nov-2020 14:13:04 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/mediasar/public_html/api/absensi/koneksi.php on line 5
+[21-Nov-2020 07:25:41 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/mediasar/public_html/api/absensi/koneksi.php on line 4
+[21-Nov-2020 07:25:41 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/mediasar/public_html/api/absensi/koneksi.php on line 5
+[21-Nov-2020 07:26:12 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/mediasar/public_html/api/absensi/koneksi.php on line 4
+[21-Nov-2020 07:26:12 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/mediasar/public_html/api/absensi/koneksi.php on line 5
+[21-Nov-2020 07:26:20 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/mediasar/public_html/api/absensi/koneksi.php on line 4
+[21-Nov-2020 07:26:20 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/mediasar/public_html/api/absensi/koneksi.php on line 5
+[21-Nov-2020 07:26:21 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/mediasar/public_html/api/absensi/koneksi.php on line 4
+[21-Nov-2020 07:26:21 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/mediasar/public_html/api/absensi/koneksi.php on line 5
+[21-Nov-2020 07:26:25 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/mediasar/public_html/api/absensi/koneksi.php on line 4
+[21-Nov-2020 07:26:25 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/mediasar/public_html/api/absensi/koneksi.php on line 5
